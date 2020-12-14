@@ -1,0 +1,892 @@
+# Translation of Themes - VW Ecommerce Shop in Ukrainian
+# This file is distributed under the same license as the Themes - VW Ecommerce Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-08 16:32:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - VW Ecommerce Shop\n"
+
+#. Theme Name of the plugin/theme
+msgid "VW Ecommerce Shop"
+msgstr "VW Ecommerce Shop"
+
+#. Description of the plugin/theme
+msgid "VW E-commerce Shop theme is the one that can check all the boxes relating to every need of your store. Our multipurpose E-commerce WordPress theme is social media integrated & highly responsive. It is built on bootstrap 4 with using clean coding standards. It is cross-browser & woo commerce compatible, has Call to action button, its SEO & user-friendly and works at its optimal best across all platforms.  You may be a business owner, informative firm, travel agency, designing firm, artist, restaurant owner, construction agency, healthcare firm, digital marketing agency, blogger, corporate business, freelancers, online bookstore, mobile & tablet store, apparel store, fashion store, sport store, handbags store, cosmetics shop, jewellery store and etc. You can set all kinds of stores up with much ease using our theme, as it is made for people like you.  You could be a freelancer or a corporate entity or a sole proprietor. Our theme will boost your business and improve your revenue with the aid of seamless features and exclusive functionalities. Running an online E-commerce store along with your physical store is a hectic task. Your trouble is doubled, when you are not only supposed to take care of the physical presence of the store but you are also required to bring the online store up to speed. That is much like running two branches of a single business. You cannot possibly put your faith into sub-standard things and expect results. E-commerce store should have a theme that is both impressive and lucrative. This medium attracts customers from so many platforms that it becomes important for the theme and the webpage to perform at its 100% at all times. Check Our Demo: https://www.vwthemes.net/vw-ecommerce-theme/"
+msgstr "Тема VW E-commerce Shop - це така, що дозволяє перевірити всі поля, що стосуються кожної деталі вашого магазину. Наша багатофункціональна WordPress тема для електронної комерції інтегрована з соціальними мережами та дуже адаптивна. Вона побудована на bootstrap 4 з використанням чистих стандартів кодування. Вона крос-браузерна та сумісна з електронною комерцією, має кнопку \"Заклик до дії\", є оптимізована для SEO та оптивальна для всіх платформ. Ви можете бути власником бізнесу, інформаційною фірмою, туристичним агентством, дизайнерською фірмою, художником, власником ресторану, будівельною агенцією, медичною фірмою, агенцією цифрового маркетингу, блогером, корпоративним бізнесом, фрілансером, інтернет-магазином, магазином мобільних та планшетів, магазином одягу, магазином модних речей, магазин спорту, магазин сумок, магазином косметики, ювелірним магазин і т.п. Ви можете легко налаштувати всі види магазинів з великою легкістю, використовуючи нашу тему, оскільки вона призначена для таких людей, як ви. Ви можете бути фрилансером або працівником корпорації або приватним підприємцем. Наша тема покращить ваш бізнес і підвищить ваш дохід за допомогою бездоганних функцій та ексклюзивної функціональності. Запуск інтернет-магазину електронної комерції разом із вашим фізичним магазином - це тяжке завдання. Ваша проблема подвоюється, коли ви повинні не лише піклуватися про фізичну присутність магазину, але й вам потрібно швидко запустити інтернет-магазин. Це так само як запустити дві гілки одного бізнесу. Ви не можете покластися на нестандартні речі і чекати результатів. Магазин електронної комерції повинен мати те, що є вражаючим і прибутковим. Це середовище залучає клієнтів з багатьох платформ, що э дуже важливим для вашого бізнесу, а веб-сторінка повинна працювати на всі 100%. Перевірте нашу демонстрацію: https://www.vwthemes.net/vw-ecommerce-theme/"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: no-results.php:16
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готові оприлюднити свій перший запис? Почніть звідси."
+
+#. translators: %s: post title
+#: comments.php:31
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один коментар до &ldquo;%s&rdquo;"
+
+#: inc/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Розмір логотипу"
+
+#: inc/customizer.php:748
+msgid "Docs"
+msgstr "Документація"
+
+#: inc/getting-started/getting-started.php:116
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/getting-started/getting-started.php:147
+msgid " Go to "
+msgstr "Перейти"
+
+#: inc/getting-started/getting-started.php:47
+msgid "vwten2018"
+msgstr "vwten2018"
+
+#: inc/getting-started/getting-started.php:124
+msgid "Add Social Icon"
+msgstr "Додайте іконку соціальної мережі"
+
+#: inc/getting-started/getting-started.php:150
+msgid " Once you are done with this, you can see all the demo content on front page. "
+msgstr " Після цього ви можете побачити весь демонстраційний вміст на першій сторінці."
+
+#: inc/getting-started/getting-started.php:148
+msgid " Settings -&gt; Reading --&gt; Set the front page display static page to home page "
+msgstr "Налаштування -&gt; Читання -&gt; Встановіть відображати головну сторінку як статичну на домашній сторінці"
+
+#: inc/getting-started/getting-started.php:147
+msgid "2. Set the front page:"
+msgstr "2. Встановіть головну сторінку"
+
+#: inc/getting-started/getting-started.php:145
+msgid "Label it \"home\" or anything as you wish. Then select template \"home-page\" from template dropdown."
+msgstr "Позначте її як \"домашня\" або що завгодно. Потім виберіть шаблон \"домашня сторінка\" з випадаючого списку шаблону."
+
+#: inc/getting-started/getting-started.php:144
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Майстерня &gt;&gt; Сторінки &gt;&gt; Додати нову сторінку"
+
+#: inc/getting-started/getting-started.php:143
+msgid "1. Create a Page to set template:  Go to "
+msgstr "1. Створіть сторінку, щоб встановити шаблон: Перейдіть до"
+
+#: inc/getting-started/getting-started.php:141
+msgid "Follow these instructions to setup Home page."
+msgstr "Дотримуйтесь цих інструкцій, щоб налаштувати домашню сторінку."
+
+#: inc/getting-started/getting-started.php:139
+msgid "How to set up Home Page Template"
+msgstr "Як налаштувати шаблон домашньої сторінки"
+
+#: inc/getting-started/getting-started.php:129
+msgid "Blog Layout"
+msgstr "Розміщення блогу"
+
+#: inc/getting-started/getting-started.php:121
+msgid "Footer Widget"
+msgstr "Віджет підвалу"
+
+#: inc/getting-started/getting-started.php:97
+msgid "Upload your logo"
+msgstr "Завантажити свій логотип"
+
+#: inc/getting-started/getting-started.php:92
+msgid "Link to customizer"
+msgstr "Посилання на налаштовувач"
+
+#: inc/getting-started/getting-started.php:47
+msgid "Use Coupon"
+msgstr "Використайте купон"
+
+#: inc/customizer.php:423
+msgid "h5 Font Size"
+msgstr "Розмір шрифту H5"
+
+#: inc/customizer.php:385
+msgid "h4 Font Size"
+msgstr "Розмір шрифту H4"
+
+#: inc/customizer.php:347
+msgid "h3 Font Size"
+msgstr "Розмір шрифту H3"
+
+#: inc/customizer.php:309
+msgid "h2 Font Size"
+msgstr "Розмір шрифту H2"
+
+#: inc/customizer.php:271
+msgid "H1 Font Size"
+msgstr "Розмір шрифту H1"
+
+#: inc/customizer.php:147 inc/getting-started/getting-started.php:100
+msgid "Typography"
+msgstr "Типографіка"
+
+#: inc/getting-started/getting-started.php:108
+msgid "Topbar Settings"
+msgstr "Налаштування верхньої панелі"
+
+#: inc/getting-started/getting-started.php:46
+msgid "Buy VW Ecommerce at 10% Discount"
+msgstr "Купіть VW Ecommerce з 10% знижкою"
+
+#: inc/customizer.php:259
+msgid "H1 Fonts"
+msgstr "H1 шрифти"
+
+#: inc/customizer.php:245
+msgid "H1 Color"
+msgstr "H1 колір"
+
+#: inc/customizer.php:283
+msgid "h2 Color"
+msgstr "H2 колір"
+
+#: inc/customizer.php:321
+msgid "h3 Color"
+msgstr "H3 колір"
+
+#: inc/customizer.php:359
+msgid "h4 Color"
+msgstr "H4 колір"
+
+#: inc/customizer.php:397
+msgid "h5 Color"
+msgstr "H5 колір"
+
+#: inc/customizer.php:335
+msgid "h3 Fonts"
+msgstr "H3 шрифти"
+
+#: inc/customizer.php:297
+msgid "h2 Fonts"
+msgstr "H2 шрифти"
+
+#: inc/customizer.php:411
+msgid "h5 Fonts"
+msgstr "H5 шрифти"
+
+#: inc/customizer.php:373
+msgid "h4 Fonts"
+msgstr "H4 шрифти"
+
+#: inc/customizer.php:461
+msgid "h6 Font Size"
+msgstr "Розмір шрифту H6"
+
+#: inc/customizer.php:449
+msgid "h6 Fonts"
+msgstr "H6 шрифти"
+
+#: inc/customizer.php:435
+msgid "h6 Color"
+msgstr "H6 колір"
+
+#: inc/customizer.php:220
+msgid "\"li\" Tag Color"
+msgstr "\"li\" колір позначки"
+
+#: inc/customizer.php:234
+msgid "\"li\" Tag Fonts"
+msgstr "\"li\" шрифти позначки"
+
+#: inc/customizer.php:209
+msgid "\"a\" Tag Fonts"
+msgstr "\"a\" шрифти позначки"
+
+#: inc/customizer.php:195
+msgid "\"a\" Tag Color"
+msgstr "\"a\" колір позначки"
+
+#: inc/customizer.php:183
+msgid "Paragraph Font Size"
+msgstr "Розмір шрифту параграфу"
+
+#: inc/customizer.php:172
+msgid "Paragraph Fonts"
+msgstr "Шрифти параграфу"
+
+#: inc/customizer.php:158
+msgid "Paragraph Color"
+msgstr "Колір параграфу"
+
+#: inc/getting-started/getting-started.php:159
+msgid " E-commerce WordPress theme is for the people of the business world. Setting up a store is a tricky task and an online store requires suitable E-commerce Wordpress theme. Not any theme is going to do the job, in the online world. You are needed to have not only a stunning website but you are also required to have a webpage that user-friendly & functional.Our Best woommerce theme is here to save you all from the miserable themes. We only provide you with the best product possible and we have never settled for anything lesser than that."
+msgstr "Тема WordPress для електронної комерції - для людей ділового світу. Створення магазину - складне завдання, а інтернет-магазин вимагає відповідної WordPress теми для електронної комерції. Не будь-яка тема зможе виконувати цю роботу в онлайн-світі. Вам потрібно мати не тільки приголомшливий веб-сайт, але й вам потрібно мати веб-сторінку, зручну для користувачів та функціональну. Наша найкраща тема для вашої комерції тут, щоб врятувати вас від жалюгідних тем. Ми надаємо вам лише найкращий продукт, і ми ніколи не погодилися б на щось менше, ніж це."
+
+#: inc/getting-started/getting-started.php:278
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getting-started/getting-started.php:219
+#: inc/getting-started/getting-started.php:220
+#: inc/getting-started/getting-started.php:225
+msgid "1"
+msgstr "1"
+
+#: inc/getting-started/getting-started.php:215
+msgid "6"
+msgstr "6"
+
+#: inc/getting-started/getting-started.php:214
+msgid "3"
+msgstr "3"
+
+#: inc/getting-started/getting-started.php:209
+msgid "4"
+msgstr "4"
+
+#: functions.php:66
+msgid "Welcome Page"
+msgstr "Вітальна сторінка"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#: inc/getting-started/getting-started.php:386
+msgid "Demo Content"
+msgstr "Демо вміст"
+
+#: inc/getting-started/getting-started.php:384
+msgid "We are providing the demo content file within the theme folder.  You will require an importer plugin to import the demo content."
+msgstr "Ми надаємо файл демо-вмісту в папці теми. Щоб імпортувати демонстраційний вміст, вам знадобиться плагін імпортера."
+
+#: inc/getting-started/getting-started.php:383
+msgid "Theme Demo Content"
+msgstr "Демонстраційний вміст теми"
+
+#: inc/getting-started/getting-started.php:378
+msgid "Contact Us"
+msgstr "Зв'язатися з нами"
+
+#: inc/getting-started/getting-started.php:376
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Якщо у вас є будь-які питання після покупки теми, зв'яжіться з нами. Ми завжди можемо вам допомогти."
+
+#: inc/getting-started/getting-started.php:375
+msgid "Post-purchase Queries"
+msgstr "Питання після покупки"
+
+#: inc/getting-started/getting-started.php:370
+msgid "View FAQ"
+msgstr "Переглянути \"Часті питання\""
+
+#: inc/getting-started/getting-started.php:368
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Ми зібрали найпопулярніші, часто задавані питання та відповіді на них, щоб ви могли легко зрозуміти тему. Ми додамо ще більше, коли ми отримуємо нові складні питання. Перевіряйте частіше."
+
+#: inc/getting-started/getting-started.php:367
+msgid "Frequently Asked Questions"
+msgstr "Часті Питання"
+
+#: inc/getting-started/getting-started.php:362
+msgid "About Child Theme"
+msgstr "Про дочірню тему"
+
+#: inc/getting-started/getting-started.php:360
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для налаштування файлів теми необхідно внести зміни до дочірньої теми, а не в файл основної теми."
+
+#: inc/getting-started/getting-started.php:359
+msgid "Child Theme"
+msgstr "Дочірня тема"
+
+#: inc/getting-started/getting-started.php:355
+msgid "Question"
+msgstr "Питання"
+
+#: inc/getting-started/getting-started.php:353
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Якщо у вас є будь-яке питання перед покупкою, ми готові відповісти на нього."
+
+#: inc/getting-started/getting-started.php:352
+msgid "Pre-purchase Queries"
+msgstr "Питання перед покупкою"
+
+#: inc/getting-started/getting-started.php:348
+msgid "Get Pro"
+msgstr "Отримати Pro"
+
+#: inc/getting-started/getting-started.php:346
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Щоб отримати доступ до додаткових параметрів теми та більш цікавих функцій, оновіться pro версії."
+
+#: inc/getting-started/getting-started.php:345
+msgid "Pro Version"
+msgstr "Версія PRO"
+
+#: inc/getting-started/getting-started.php:328
+msgid "Seamless Customer Support"
+msgstr "Бездоганна підтримка клієнтів"
+
+#: inc/getting-started/getting-started.php:323
+msgid "All Access Theme Pass"
+msgstr "Всі доступи теми перевірені"
+
+#: inc/getting-started/getting-started.php:318
+msgid "Custom Feature Addition"
+msgstr "Додавання спеціальних функцій"
+
+#: inc/getting-started/getting-started.php:313
+msgid "Priority Error Fixing"
+msgstr "Пріоритетне виправлення помилки"
+
+#: inc/getting-started/getting-started.php:308
+msgid "Budget Friendly Value"
+msgstr "Бюджетна дружня вартість"
+
+#: inc/getting-started/getting-started.php:303
+msgid "Premium Membership"
+msgstr "Преміальне членство"
+
+#: inc/getting-started/getting-started.php:298
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Користувацький фон, колір, заголовок, лого та меню"
+
+#: inc/getting-started/getting-started.php:293
+msgid "Shortcodes"
+msgstr "Скорочені коди"
+
+#: inc/getting-started/getting-started.php:288
+msgid "Support to add custom CSS / JS "
+msgstr "Підтримка додавання користувальницького CSS / JS"
+
+#: inc/getting-started/getting-started.php:283
+msgid "Simple & Mega Menu Option"
+msgstr "Простий та Mega Menu налаштування"
+
+#: inc/getting-started/getting-started.php:273
+msgid "Section Google Font Choices"
+msgstr "Розділ вибору Google шрифту"
+
+#: inc/getting-started/getting-started.php:268
+msgid "Section Enable / Disable"
+msgstr "Розділ Увімкнути / Вимкнути"
+
+#: inc/getting-started/getting-started.php:263
+msgid "Exclusive Functionalities"
+msgstr "Ексклюзивні функції"
+
+#: inc/getting-started/getting-started.php:258
+msgid "Secure and Optimized Code"
+msgstr "Безпечний та оптимізований код"
+
+#: inc/getting-started/getting-started.php:253
+msgid "Support 3rd Party Plugins"
+msgstr "Підтримка сторонніх плагінів"
+
+#: inc/getting-started/getting-started.php:248
+msgid "Woo-Commerce Compatibility"
+msgstr "Woo-Commerce сумісність"
+
+#: inc/getting-started/getting-started.php:243
+msgid "Latest WordPress Compatibility"
+msgstr "Сумісність з останніми версіями WordPress"
+
+#: inc/getting-started/getting-started.php:238
+msgid "Full Documentation"
+msgstr "Повна документація"
+
+#: inc/getting-started/getting-started.php:235
+msgid "2(Left/Right Sidebar)"
+msgstr "2(Ліва/Права бічна колонка)"
+
+#: inc/getting-started/getting-started.php:233
+msgid "Page Templates & Layout"
+msgstr "Шаблон та розміщення сторінки"
+
+#: inc/getting-started/getting-started.php:230
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3(Повна ширина/Ліва/Права бічна колонка)"
+
+#: inc/getting-started/getting-started.php:228
+msgid "Blog Templates & Layout"
+msgstr "Шаблон та розміщення блогу"
+
+#: inc/getting-started/getting-started.php:223
+msgid "Contact us Page Template"
+msgstr "Шаблон сторінки \"Зв'яжіться з нами\""
+
+#: inc/getting-started/getting-started.php:218
+msgid "Home Page Template"
+msgstr "Шаблон домашньої сторінки"
+
+#: inc/getting-started/getting-started.php:213
+msgid "Template Pages"
+msgstr "Сторінки шаблону"
+
+#: inc/getting-started/getting-started.php:210
+msgid "Unlimited"
+msgstr "Без ліміту"
+
+#: inc/getting-started/getting-started.php:208
+msgid "Number of Slides"
+msgstr "Кількість слайдів"
+
+#: inc/getting-started/getting-started.php:198
+msgid "Social Media Links"
+msgstr "Посилання соціальних мереж"
+
+#: inc/getting-started/getting-started.php:193
+msgid "Logo Upload"
+msgstr "Завантаження логотипу"
+
+#: inc/getting-started/getting-started.php:188
+msgid "Responsive Design"
+msgstr "Адаптивний дизайн"
+
+#: inc/getting-started/getting-started.php:183
+msgid "Theme Customization"
+msgstr "Налаштування теми"
+
+#: inc/getting-started/getting-started.php:178
+msgid "Premium Themes"
+msgstr "Преміум теми"
+
+#: inc/getting-started/getting-started.php:177
+msgid "Free Themes"
+msgstr "Безкоштовні теми"
+
+#: inc/getting-started/getting-started.php:170
+msgid "Theme Features"
+msgstr "Особливості теми"
+
+#: inc/getting-started/getting-started.php:163
+msgid "Pro Documentation"
+msgstr "Pro документація"
+
+#: inc/getting-started/getting-started.php:162
+msgid "Buy Pro"
+msgstr "Купити Pro"
+
+#: inc/getting-started/getting-started.php:161
+msgid "Live Demo"
+msgstr "Демо версія"
+
+#: inc/getting-started/getting-started.php:156
+msgid "Premium Theme Information"
+msgstr "Інформація про преміум тему"
+
+#: inc/getting-started/getting-started.php:88
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: inc/getting-started/getting-started.php:86
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Всі особливості та аспекти цієї WordPress теми феноменальні. Я рекомендую цю тему для всіх."
+
+#: inc/getting-started/getting-started.php:85
+msgid "Reviews & Testimonials"
+msgstr "Відгуки та рекомендації"
+
+#: inc/getting-started/getting-started.php:82
+msgid "Support Forum"
+msgstr "Форум підтримки"
+
+#: inc/getting-started/getting-started.php:80
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша команда готова допомогти вам у разі виникнення запитань і сумнівів стосовно нашої теми."
+
+#: inc/getting-started/getting-started.php:79
+msgid "Having Trouble, Need Support?"
+msgstr "Маєте питання, потрібна допомога?"
+
+#: inc/getting-started/getting-started.php:76
+msgid "Customizing"
+msgstr "Налаштовування"
+
+#: inc/getting-started/getting-started.php:74
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Щоб розпочати налаштування свого веб-сайту, натисніть «Налаштувати»."
+
+#: inc/getting-started/getting-started.php:73
+msgid "Theme Customizer"
+msgstr "Налаштовувач теми"
+
+#: inc/customizer.php:747 inc/getting-started/getting-started.php:70
+msgid "Documentation"
+msgstr "Документатція"
+
+#: inc/getting-started/getting-started.php:68
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Якщо вам потрібна допомога щодо встановлення та налаштування теми, наша документація знаходиться там."
+
+#: inc/getting-started/getting-started.php:67
+msgid "Theme Documentation"
+msgstr "Документація теми"
+
+#: inc/getting-started/getting-started.php:63
+msgid "Lite Theme Information"
+msgstr "Інформація про полегшену тему"
+
+#: inc/getting-started/getting-started.php:58
+msgid "Support"
+msgstr "Підтримка"
+
+#: inc/getting-started/getting-started.php:57
+msgid "Get Premium"
+msgstr "Отримайте преміум"
+
+#: inc/getting-started/getting-started.php:56
+msgid "Getting Started"
+msgstr "Почати"
+
+#: inc/getting-started/getting-started.php:49
+#: inc/getting-started/getting-started.php:335
+msgid "Upgrade to Pro"
+msgstr "Оновитися до Pro"
+
+#: inc/getting-started/getting-started.php:39
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Всі наші WordPress теми - це сучасні, мінімалістські, 100% адоптивні, дружні з seo, багатофункціональні та багатоцільові, які найкраще підходять для дизайнерів, блогерів та інших професіоналів, які працюють у творчих сферах."
+
+#: inc/customizer.php:734
+msgid "Upgrade Pro"
+msgstr "Придбати Pro"
+
+#: inc/customizer.php:38
+msgid "Do you want this section"
+msgstr "Вам потрібен цей розділ"
+
+#: 404.php:17
+msgid "Return to the home page"
+msgstr "Повернутися на головну сторінку"
+
+#: 404.php:15 no-results.php:21
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не хвилюйтеся, це станється з найкращими з нас."
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: inc/getting-started/getting-started.php:5
+msgid "About VW Ecommerce Theme"
+msgstr "Про тему VW Ecommerce"
+
+#: functions.php:65
+msgid "Thank you for choosing VW Ecommerce theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Ecommerce theme."
+msgstr "Дякуємо за вибір теми VW Ecommerce. Перейшли на сторінку вітання, щоб ви могли скористатися всіма перевагами нашої теми VW Ecommerce."
+
+#: inc/getting-started/getting-started.php:38
+msgid "Welcome to VW Ecommerce Theme"
+msgstr "Вітаємо у темі VW Ecommerce"
+
+#: inc/getting-started/getting-started.php:65
+msgid "VW E-commerce Shop theme is the one that can check all the boxes relating to every need of your store. Our multipurpose E-commerce WordPress theme is social media integrated & highly responsive. It is built on bootstrap 4 with using clean coding standards. It is cross-browser & woo commerce compatible, has Call to action button, its SEO & user-friendly and works at its optimal best across all platforms.  You may be a business owner, informative firm, travel agency, designing firm, artist, restaurant owner, construction agency, healthcare firm, digital marketing agency, blogger, corporate business, freelancers, online bookstore, mobile & tablet store, apparel store, fashion store, sport store, handbags store, cosmetics shop, jewellery store and etc. You can set all kinds of stores up with much ease using our theme, as it is made for people like you.  You could be a freelancer or a corporate entity or a sole proprietor. Our theme will boost your business and improve your revenue with the aid of seamless features and exclusive functionalities. Running an online E-commerce store along with your physical store is a hectic task. Your trouble is doubled, when you are not only supposed to take care of the physical presence of the store but you are also required to bring the online store up to speed. That is much like running two branches of a single business. You cannot possibly put your faith into sub-standard things and expect results. E-commerce store should have a theme that is both impressive and lucrative. This medium attracts customers from so many platforms that it becomes important for the theme and the webpage to perform at its 100% at all times."
+msgstr "Тема VW E-commerce Shop - це така, що дозволяє перевірити всі поля, що стосуються кожної деталі вашого магазину. Наша багатофункціональна WordPress тема для електронної комерції інтегрована з соціальними мережами та дуже адаптивна. Вона побудована на bootstrap 4 з використанням чистих стандартів кодування. Вона крос-браузерна та сумісна з електронною комерцією, має кнопку \"Заклик до дії\", є оптимізована для SEO та оптивальна для всіх платформ. Ви можете бути власником бізнесу, інформаційною фірмою, туристичним агентством, дизайнерською фірмою, художником, власником ресторану, будівельною агенцією, медичною фірмою, агенцією цифрового маркетингу, блогером, корпоративним бізнесом, фрілансером, інтернет-магазином, магазином мобільних та планшетів, магазином одягу, магазином модних речей, магазин спорту, магазин сумок, магазином косметики, ювелірним магазин і т.п. Ви можете легко налаштувати всі види магазинів з великою легкістю, використовуючи нашу тему, оскільки вона призначена для таких людей, як ви. Ви можете бути фрилансером або працівником корпорації або приватним підприємцем. Наша тема покращить ваш бізнес і підвищить ваш дохід за допомогою бездоганних функцій та ексклюзивної функціональності. Запуск інтернет-магазину електронної комерції разом із вашим фізичним магазином - це тяжке завдання. Ваша проблема подвоюється, коли ви повинні не лише піклуватися про фізичну присутність магазину, але й вам потрібно швидко запустити інтернет-магазин. Це так само як запустити дві гілки одного бізнесу. Ви не можете покластися на нестандартні речі і чекати результатів. Магазин електронної комерції повинен мати те, що є вражаючим і прибутковим. Це середовище залучає клієнтів з багатьох платформ, що э дуже важливим для вашого бізнесу, а веб-сторінка повинна працювати на всі 100%."
+
+#: inc/customizer.php:638
+msgid "This section will appear in the footer"
+msgstr "Цей розділ з'явиться у підвалі"
+
+#: inc/customizer.php:637
+msgid "Footer"
+msgstr "Підвал"
+
+#: template-parts/single-post-layout.php:39
+msgid "Previous"
+msgstr "Назад"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: inc/customizer.php:44
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: header.php:22
+msgid "Menu"
+msgstr "Меню"
+
+#. Template Name of the plugin/theme
+msgid "Page with Right Sidebar"
+msgstr "Сторінка з правою бічною колонкою"
+
+#. Template Name of the plugin/theme
+msgid "Page with Left Sidebar"
+msgstr "Сторінка з лівою бічною колонкою"
+
+#. Template Name of the plugin/theme
+msgid "Custom Home"
+msgstr "Користувацька домашня сторінка"
+
+#: template-parts/single-post-layout.php:40
+msgid "Previous post:"
+msgstr "Попередній запис:"
+
+#: template-parts/single-post-layout.php:37
+msgid "Next post:"
+msgstr "Наступний запис:"
+
+#: template-parts/single-post-layout.php:36
+msgid "Next"
+msgstr "Далі"
+
+#: template-parts/single-post-layout.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Оприлюднено в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Редагувати"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: template-parts/content-audio.php:58 template-parts/content-gallery.php:45
+#: template-parts/content-image.php:38 template-parts/content-video.php:58
+#: template-parts/content.php:30 template-parts/grid-layout.php:25
+msgid "Read More"
+msgstr "Читати далі"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архіви"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Пошук"
+
+#: no-results.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: inc/customizer.php:647
+msgid "Copyright Text"
+msgstr "Текст копірайту"
+
+#: inc/getting-started/getting-started.php:132
+msgid "Footer Text"
+msgstr "Текст підвалу"
+
+#: inc/customizer.php:629
+msgid "Select Page"
+msgstr "Виберіть сторінку"
+
+#: inc/customizer.php:616
+msgid "Section Title"
+msgstr "Заголовок розділу"
+
+#: inc/customizer.php:596
+msgid "Select Slide Image Page"
+msgstr "Виберіть сторінку слайдів зображень"
+
+#: inc/customizer.php:582 inc/getting-started/getting-started.php:105
+#: inc/getting-started/getting-started.php:203
+msgid "Slider Settings"
+msgstr "Налаштування слайдеру"
+
+#: inc/customizer.php:470
+msgid "Topbar Section"
+msgstr "Розділ верхньої панелі"
+
+#: inc/customizer.php:46
+msgid "Grid Layout"
+msgstr "Розміщення сіткою"
+
+#: inc/customizer.php:45
+msgid "Four Columns"
+msgstr "Чотири колонки"
+
+#: inc/customizer.php:43
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: inc/customizer.php:32 inc/customizer.php:42
+msgid "Right Sidebar"
+msgstr "Правий сайдбар"
+
+#: inc/customizer.php:41
+msgid "Left Sidebar"
+msgstr "Лівий сайдбар"
+
+#: inc/customizer.php:25
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr "Налаштування VW"
+
+#: functions.php:133
+msgid "Footer Navigation 4"
+msgstr "Навігація підвалу 4"
+
+#: functions.php:123
+msgid "Footer Navigation 3"
+msgstr "Навігація підвалу 3"
+
+#: functions.php:113
+msgid "Footer Navigation 2"
+msgstr "Навігація підвалу 2"
+
+#: functions.php:103
+msgid "Footer Navigation 1"
+msgstr "Навігація підвалу 1"
+
+#: functions.php:93
+msgid "Sidebar 3"
+msgstr "Бічна колонка 3"
+
+#: functions.php:84 functions.php:94
+msgid "Appears on page sidebar"
+msgstr "З'явиться на бічній колонці сторінки"
+
+#: functions.php:83
+msgid "Page Sidebar"
+msgstr "Бічна колонка сторінки"
+
+#: functions.php:74
+msgid "Appears on blog page sidebar"
+msgstr "З'явиться на бічній колонці сторінки блогу"
+
+#: functions.php:73
+msgid "Blog Sidebar"
+msgstr "Бічна колонка блогу"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 image.php:40 image.php:73 image.php:105
+#: image.php:137 image.php:171 image.php:206 index.php:46 index.php:79
+#: index.php:111 index.php:143 index.php:177 index.php:212 search.php:41
+#: search.php:75 search.php:108 search.php:141 search.php:176 search.php:213
+#: single.php:40 single.php:73 single.php:105 single.php:137 single.php:171
+#: single.php:206
+msgid "Page"
+msgstr "Сторінка"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 image.php:39 image.php:72 image.php:104
+#: image.php:136 image.php:170 image.php:205 index.php:45 index.php:78
+#: index.php:110 index.php:142 index.php:176 index.php:211 search.php:40
+#: search.php:74 search.php:107 search.php:140 search.php:175 search.php:212
+#: single.php:39 single.php:72 single.php:104 single.php:136 single.php:170
+#: single.php:205
+msgid "Next page"
+msgstr "Наступна сторінка"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 image.php:38 image.php:71 image.php:103
+#: image.php:135 image.php:169 image.php:204 index.php:44 index.php:77
+#: index.php:109 index.php:141 index.php:175 index.php:210 search.php:39
+#: search.php:73 search.php:106 search.php:139 search.php:174 search.php:211
+#: single.php:38 single.php:71 single.php:103 single.php:135 single.php:169
+#: single.php:204
+msgid "Previous page"
+msgstr "Попередня сторінка"
+
+#: no-results.php:23
+msgid "Back to Home Page"
+msgstr "Назад на домашню сторінку"
+
+#: 404.php:14
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Схоже, ви зробили неправильний поворот&hellip"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Шукати"
+
+#: page-template/custom-home-page.php:119
+msgid "Trending In Our Store"
+msgstr "Тенденції у нашому магазині"
+
+#: page-template/custom-home-page.php:95
+msgid "SHOP NOW"
+msgstr "КУПІТЬ ЗАРАЗ"
+
+#: page-template/custom-home-page.php:13
+msgid "ALL CATEGORIES"
+msgstr "ВСІ КАТЕГОРІЇ"
+
+#: inc/customizer.php:733
+msgid "VW E-commerce Pro"
+msgstr "VW E-commerce Pro"
+
+#: inc/customizer.php:606
+msgid "This section will appear below the slider."
+msgstr "Цей розділ з'явиться під слайдером."
+
+#: inc/customizer.php:605 inc/getting-started/getting-started.php:113
+msgid "Trending Products"
+msgstr "Популярні продукти"
+
+#: inc/customizer.php:574
+msgid "Add Instagram link"
+msgstr "Додайте посилання на Instagram"
+
+#: inc/customizer.php:562
+msgid "Add Twitter link"
+msgstr "Додайте посилання на Twitter"
+
+#: inc/customizer.php:550
+msgid "Add Facebook link"
+msgstr "Додайте посилання на Facebook "
+
+#: inc/customizer.php:538
+msgid "Add Youtube link"
+msgstr "Додайте посилання на Youtube "
+
+#: inc/customizer.php:526
+msgid "Social Icon Section"
+msgstr "Розділ соціальних мереж"
+
+#: inc/customizer.php:518
+msgid "Add Phone Number"
+msgstr "Додайте номер телефону"
+
+#: inc/customizer.php:471 inc/customizer.php:527
+msgid "Add Header Content here"
+msgstr "Додайте тут вміст заголовку"
+
+#: functions.php:104 functions.php:114 functions.php:124 functions.php:134
+msgid "Appears on footer"
+msgstr "З'явиться у підвалі"
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Опис, що робить ця панель."
+
+#: inc/customizer.php:482 inc/customizer.php:494 inc/customizer.php:506
+msgid "Add Text"
+msgstr "Додати текст"
+
+#. Author URI of the plugin/theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the plugin/theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.vwthemes.com/free/wp-ecommerce-wordpress-theme/"
+msgstr "https://www.vwthemes.com/free/wp-ecommerce-wordpress-theme/"
